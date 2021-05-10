@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D43B167A-CA19-4D23-B358-B70EE794519C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VID_Retail</RootNamespace>
+    <AssemblyName>VID_Retail</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>VID_Retail.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.SAPbobsCOM">
+      <HintPath>SAP90\Interop.SAPbobsCOM.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.SAPbouiCOM">
+      <HintPath>SAP90\Interop.SAPbouiCOM.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VisualD.ADOSBOScriptExecute">
+      <HintPath>VisualD_Dll_x86\VisualD.ADOSBOScriptExecute.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.ChooseFromListSubQuery">
+      <HintPath>VisualD_Dll_x86\VisualD.ChooseFromListSubQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.Core">
+      <HintPath>VisualD_Dll_x86\VisualD.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.Dimensions">
+      <HintPath>VisualD_Dll_x86\VisualD.Dimensions.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.Main">
+      <HintPath>VisualD_Dll_x86\VisualD.Main.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.MainObjBase">
+      <HintPath>VisualD_Dll_x86\VisualD.MainObjBase.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.MasterDataMatrixForm">
+      <HintPath>VisualD_Dll_x86\VisualD.MasterDataMatrixForm.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.Matrix_Helper">
+      <HintPath>VisualD_Dll_x86\VisualD.Matrix_Helper.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.MenuConfFr">
+      <HintPath>VisualD_Dll_x86\VisualD.MenuConfFr.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.MultiFunctions">
+      <HintPath>VisualD_Dll_x86\VisualD.MultiFunctions.dll</HintPath>
+    </Reference>
+    <Reference Include="Visuald.ReportWindowFr">
+      <HintPath>VisualD_Dll_x86\Visuald.ReportWindowFr.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.SBOCrystalPreview">
+      <HintPath>VisualD_Dll_x86\VisualD.SBOCrystalPreview.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.SBOFunctions">
+      <HintPath>VisualD_Dll_x86\VisualD.SBOFunctions.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.SBOGeneralService">
+      <HintPath>VisualD_Dll_x86\VisualD.SBOGeneralService.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.SBOObjectMg1">
+      <HintPath>VisualD_Dll_x86\VisualD.SBOObjectMg1.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.uEncrypt">
+      <HintPath>VisualD_Dll_x86\VisualD.uEncrypt.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.untLog">
+      <HintPath>VisualD_Dll_x86\VisualD.untLog.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.vkBaseForm">
+      <HintPath>VisualD_Dll_x86\VisualD.vkBaseForm.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualD.vkFormInterface">
+      <HintPath>VisualD_Dll_x86\VisualD.vkFormInterface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="retail\AjusteStockLF.cs" />
+    <Compile Include="retail\AprobacionRecepcionTienda.cs" />
+    <Compile Include="retail\CambioEstadoMasivoOT.cs" />
+    <Compile Include="retail\Categorias.cs" />
+    <Compile Include="retail\Clusters.cs" />
+    <Compile Include="retail\ControlTraslados.cs" />
+    <Compile Include="retail\Departamentos.cs" />
+    <Compile Include="retail\DespachoATiendas.cs" />
+    <Compile Include="retail\FacturaVentaRelacionada.cs" />
+    <Compile Include="retail\Familias.cs" />
+    <Compile Include="retail\FiltroAceptacionRecep.cs" />
+    <Compile Include="retail\Grupos.cs" />
+    <Compile Include="retail\NCVentaRelacionada.cs" />
+    <Compile Include="retail\OCCrossDocking.cs" />
+    <Compile Include="retail\Parametros.cs" />
+    <Compile Include="retail\Password.cs" />
+    <Compile Include="retail\Periodos.cs" />
+    <Compile Include="retail\RecepcionenTiendas.cs" />
+    <Compile Include="retail\RetailObj.cs" />
+    <Compile Include="retail\Precios.cs" />
+    <Compile Include="retail\TransferenciaOrdenServicio.cs" />
+    <Compile Include="retail\TransferenciaStockDev.cs" />
+    <Compile Include="retail\Surtido.cs" />
+    <Compile Include="retail\Tiendas.cs" />
+    <Compile Include="retail\utils.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="VisualD.GlobalVid\VisualD.GlobalVid.csproj">
+      <Project>{78b23f84-cb41-495c-aa75-8c99c8a5c863}</Project>
+      <Name>VisualD.GlobalVid</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

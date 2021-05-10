@@ -1,0 +1,68 @@
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\Users\IOP\Documents\SBO\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\Users\IOP\Documents\SBO\VID_Retail\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\Users\Administrador\Documents\SBO\VID_Retail\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
